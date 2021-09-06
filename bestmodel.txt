@@ -1,0 +1,5 @@
+LR (added & to regex)
+#Precision: 0.83906
+#Recall: 0.83644
+#f1 Score: 0.83733
+#--- --- ---
