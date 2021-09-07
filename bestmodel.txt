@@ -1,3 +1,11 @@
+LR (max_df=0.2)
+#Precision: 0.84848
+#Recall: 0.84146
+#f1 Score: 0.84435
+#--- --- ---
+
+### OLD ###
+
 LR (removed not freq words)
 #Precision: 0.84422
 #Recall: 0.84040
