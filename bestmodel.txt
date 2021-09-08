@@ -1,10 +1,16 @@
+LR (changed solver to liblinear)
+#Precision: 0.85283
+#Recall: 0.84650
+#f1 Score: 0.84918
+#--- --- ---
+
+### OLD ###
+
 LR (max_df=0.2)
 #Precision: 0.84848
 #Recall: 0.84146
 #f1 Score: 0.84435
 #--- --- ---
-
-### OLD ###
 
 LR (removed not freq words)
 #Precision: 0.84422
