@@ -14,9 +14,9 @@ Example: \
 **Label**: *Java Developer*
 
 ## PREPROCESS
-Steps used for the preprocessing part:
-- Removed not italian and english job descriptions;
-- Removed most common italian and english words;
+Steps used for the pre-processing part:
+- Removed not Italian and English job descriptions;
+- Removed most common Italian and English words;
 - Removed numbers and non-alphanumeric characters;
 - Removed too short or too long words;
 - Calculate TF-IDF of the words.
@@ -29,7 +29,8 @@ The metrics to be considered were:
 - F1-score.
 
 ## OTHER PARTS
-To be complaint with the challenge's requiremnts some more fuctions were added:
+To be compliant with the challenge's requirements some more functions were added:
 - SAVE PREDICTIONS: save the classifier's predictions of the test set in a .csv file.
-- READ PREDICTIONS: read the predictions from the file saved with the previous fuction.
+- READ PREDICTIONS: read the predictions from the file saved with the previous function.
 - SAVE, LOAD and TEST MODEL: used to save, load and test the classifier.
+
